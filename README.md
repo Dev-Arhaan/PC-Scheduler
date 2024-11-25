@@ -8,7 +8,7 @@ A Python script with a GUI to schedule shutdown, restart, or sleep commands for 
    ```bash
    git clone https://github.com/dev-arhaan/PC-Scheduler.git
    cd PC-Scheduler
-   python scheduler_gui.py
+   python schedule_shutdown.py
  
 ## Features:
 
